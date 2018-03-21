@@ -1,0 +1,3 @@
+GS_SERVER_URL=http://localhost:9000/api/
+GS_NODE_ID=foo-server
+GS_TAGS=['aws','foo','prod2']
